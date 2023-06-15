@@ -1,0 +1,8 @@
+E:\dotnet\QiniuSDK\Qiniu\bin\Release\Qiniu.dll
+E:\dotnet\QiniuSDK\Qiniu\bin\Release\Qiniu.pdb
+E:\dotnet\QiniuSDK\Qiniu\bin\Release\Newtonsoft.Json.dll
+E:\dotnet\QiniuSDK\Qiniu\bin\Release\Newtonsoft.Json.xml
+E:\dotnet\QiniuSDK\Qiniu\obj\Release\Qiniu.csproj.CoreCompileInputs.cache
+E:\dotnet\QiniuSDK\Qiniu\obj\Release\Qiniu.csproj.CopyComplete
+E:\dotnet\QiniuSDK\Qiniu\obj\Release\Qiniu.dll
+E:\dotnet\QiniuSDK\Qiniu\obj\Release\Qiniu.pdb
